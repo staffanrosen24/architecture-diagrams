@@ -8,8 +8,7 @@ flowchart BT
     Storage • Compute • CI/CD • Observability • Security"]
 
     Code["CODE LAYER<br/>
-    Transformations • Business Logic • Data Contracts<br/>
-    Validation • Orchestration • Monitoring • IaC"]
+    Transformations • Business Logic • Data Contracts • Validation • Orchestration • Monitoring • IaC"]
 
     Product["DATA PRODUCT LAYER<br/>
     Curated Datasets • Semantic Models • APIs • Features<br/>
