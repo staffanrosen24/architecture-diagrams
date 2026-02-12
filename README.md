@@ -1,7 +1,7 @@
 # Enterprise Semantic Architecture
 
 ```mermaid
-flowchart TD
+flowchart BT
 
     Snowflake --> Enterprise
     Databricks --> Enterprise
